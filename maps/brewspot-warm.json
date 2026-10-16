@@ -1,0 +1,15 @@
+{
+  "variant": "light",
+  "backgroundColor": "#FAF7F2",
+  "styles": [
+    {"id":"natural.land","geometry":{"fillColor":"#F2EBDD"}},
+    {"id":"natural.water","geometry":{"fillColor":"#CBDAD5"},"label":{"textFillColor":"#546D64","textStrokeColor":"#FAF7F2"}},
+    {"id":"infrastructure.urbanArea","geometry":{"fillColor":"#F2EBDD"}},
+    {"id":"infrastructure.building","geometry":{"fillColor":"#E7DDCD"}},
+    {"id":"infrastructure.roadNetwork.road","geometry":{"fillColor":"#FFFDFA"},"label":{"textFillColor":"#6D5A47","textStrokeColor":"#FAF7F2"}},
+    {"id":"infrastructure.roadNetwork.road.highway","geometry":{"fillColor":"#DEC5A1"}},
+    {"id":"pointOfInterest","label":{"visible":false}},
+    {"id":"pointOfInterest.recreation.park","geometry":{"fillColor":"#D1DBC5"},"label":{"visible":true,"textFillColor":"#506446","textStrokeColor":"#FAF7F2"}},
+    {"id":"political","label":{"textFillColor":"#695440","textStrokeColor":"#FAF7F2"}}
+  ]
+}
